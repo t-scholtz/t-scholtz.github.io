@@ -1,25 +1,13 @@
 ---
 title: "Does this page make it?"
 layout: post
+categories: media
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## First Post
 
+The intention of this webpage, and thereby this blog post, is to be able to attach it to a CV. With the current( at time of writing ) being to apply for a summer intership. Being an international student, I don't know how that will work exactly, but I belive!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I probally don' need to have a webpage, but at the same time, I think it is somewhat expceted in any CS related field. I guess it shows base line compentance. Ah yes, we see you are able to use github and follow an online tutorial, that is the skill set we are looking for :).
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Welp, hopefull this endeavor succeds and does not end in flames. If you are a future recuiter of sorts, ( *・∀・)ノ゛ , I hope you are having a good, and do not consider this too childish.
