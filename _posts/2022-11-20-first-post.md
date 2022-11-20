@@ -15,6 +15,7 @@ I probably don' need to have a webpage, but at the same time, I think it is some
 
 Welp, hopefully this endeavor succeeds and does not end in flames. If you are a future recruiter of sorts, ( *・∀・)ノ゛ , I hope you are having a good, and do not consider this all too childish.
 
+### Random holiday photo I took that I thought looked nice (Natures Valley, za)
 ![fadedWaves](/assets/images/ocean.jpg)
 
 -T J Scholtz
