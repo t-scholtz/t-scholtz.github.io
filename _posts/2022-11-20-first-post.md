@@ -7,7 +7,7 @@ categories: media
 
 ## First Post
 
-![headshot](/assets/images/IMG_0496.jpg)
+![headshot](/assets/images/IMG_0496.png)
 
 The intention of this webpage, and thereby this blog post, is to be CV of sorts. That being said, I have linked my actual CV.  I have this with the intention of applying for summer internships. Being an international student, I don't really know how this will all work, but I trust some good will come of this.
 

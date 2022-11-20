@@ -9,7 +9,7 @@ categories: media
 
 This is a speech I gave at one of the English club's open mic's. I don't know how well this will translate from speech to a blog post, but I thought it might be worth sharing. Enjoy if you cant.
 
-<span style="color:red">**Content advisory: ** </span> Adult Humour, althogh that might be an optimistic assement of the work
+<span style="color:red">Content advisory: </span> Adult Humour, althogh that might be an optimistic assement of the work
 
 
 Hear thy hear thy. 
