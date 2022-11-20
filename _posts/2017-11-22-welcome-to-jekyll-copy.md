@@ -1,7 +1,6 @@
 ---
 title: "Does this page make it?"
 layout: post
-categories: media
 ---
 
 ## First Post
