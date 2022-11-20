@@ -1,6 +1,6 @@
 title: "Timothy J Scholtz"
 author: "Tim Scholtz"
-description: "<b style=\"color: #00755e;\">Computer Engineering student</b> at <b style=\"color: #0048ba;\">University at Buffalo</b>"
+description: "<b style=\"color: #00755e;\">Computer Engineering </b> student at the <b style=\"color: #0048ba;\">University at Buffalo</b><b style=\"color: #ff878d;\">&lt;3 </b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,7 +8,7 @@ date_format: "%d %B %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
@@ -17,7 +17,8 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title Home}
-  - {file: "CV.pdf" , title: CV}
+  - {file: "/CV.pdf" , title: CV}
+  - {file: "/research.pdf" , title: Research}
   - {file: "README.md" , title: About me }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
