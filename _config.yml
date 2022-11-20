@@ -1,6 +1,6 @@
 title: "Timothy J Scholtz"
 author: "Tim Scholtz"
-description: "<b style=\"color: #00755e;\">Computer Engineering </b> student at the <b style=\"color: #0048ba;\">University at Buffalo</b><b style=\"color: #ff878d;\">&lt;3 </b>"
+description: "<b style=\"color: #00755e;\">Computer Engineering </b> student at the <b style=\"color: #0048ba;\">University at Buffalo </b><b style=\"color: #ff878d;\">&lt;3 </b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,8 +17,8 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title Home}
-  - {file: "/CV.pdf" , title: CV}
-  - {file: "/research.pdf" , title: Research}
+  - {file: "CV.pdf" , title: CV}
+  - {file: "research.pdf" , title: Research}
   - {file: "README.md" , title: About me }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
