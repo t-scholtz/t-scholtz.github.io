@@ -15,6 +15,8 @@ To the uninitiated. Imagine a desolate wasteland, borne from frost and cold, wit
 Whilst by all accounts, Buffalo is way past its hay day. Buffalo used to be one of the top metropolitan US cities. It hit [peak population][census] in the 1950s and has been declining ever since. It used to hold substantial influence due to its river access, and cheap power generation. These traits allowed it to become a [manufacturing centre][man] and, and grow to a substantial size. However, over time, Buffalo’s geographic position was no longer essential to the preferred path of shipments and transportation. And as manufacturing moved to other parts of the world, Buffalo lost influence. Buffalo has struggled to create a post-industrial economy and has been declining since. Yet, it's still kicking.
 
 So, what is there to do in Buffalo? Well, charmingly enough, ‘[Buffalo.org][buff]’ seems to offer an answer to such a question.
+
+
 ![todo](/assets/images/todo.png)
 
 I can confidently say, that that sums it up rather adequately.
