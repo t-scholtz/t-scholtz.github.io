@@ -19,7 +19,8 @@ What I have gathered so far is that one should: have a superb and delectable res
  
 That being said, I probably don't need to have a webpage, but at the same time, I think it is somewhat expected for CS related jobs and internships. I guess it shows general competence and ability(to follow a [youtube tutorial][tutorial]). Anyhow, this was fun making, and who knows, maybe I will keep up this blog section.
  
-Welp, hopefully this endeavour succeeds and does not end in flames. If you are a future recruiter of sorts, ( *・∀・)ノ゛ , I hope you are doing well, and do not consider this all too childish.
+Welp, hopefully this endeavour succeeds and does not end in flames. If you are a future recruiter of sorts,
+ ( *・∀・)ノ゛ , I hope you are doing well, and do not consider this all too childish.
 
 #### Random holiday I thought looked nice (Natures Valley, za)
 ![fadedWaves](/assets/images/ocean.jpg)
