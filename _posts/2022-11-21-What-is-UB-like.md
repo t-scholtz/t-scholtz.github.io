@@ -32,7 +32,7 @@ In all honesty, UB is a really good school. It has competent, knowledgeable prof
 In conclusion, here is a picture of the average Buffalo weather in July :) 
 
 
-### Average Buffalo Summer Day
+### Average Summer Day in Buffalo
 ![headshot](/assets/images/IMG_0177.png)
 
 
