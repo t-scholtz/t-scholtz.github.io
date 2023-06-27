@@ -13,10 +13,10 @@ I am a passionate Computer Engineering major currently pursuing my studies at th
 
 In addition to my academic pursuits, I have a variety of hobbies I enjoy. These include reading, music, hiking, and films. When it comes to films, thse are some that art very close to my heart:
 
-*The Princess Bride
-*Knives Out
-*Arrival
-*Fantastic Mr. Fox
-*Pan's Labyrinth
-*Spirited Away
-*Scott Pilgrim vs. the World
+* The Princess Bride
+* Knives Out
+* Arrival
+* Fantastic Mr. Fox
+* Pan's Labyrinth
+* Spirited Away
+* Scott Pilgrim vs. the World
