@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 ---
-![Jack](/assets/images/IMG_0521.png)
+![Jack](/assets/images/IMG_0521.JPG)
 ## Ode to a Good Boy: In Loving Memory of Jack
 
 Unfortunately, my dog, Jack, has recently passed away. His absence leaves a void that will be deeply felt. Jack, though not the bravest, possessed a sweetness and gentleness that touched our souls.
