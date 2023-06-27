@@ -6,30 +6,25 @@ categories: media
 
 ## A simple review of UB from a Comp Eng's perspective
 
-
-
 What is Buffalo like?
 
-To the uninitiated. Imagine a desolate wasteland, borne from frost and cold, with winds that tear the flesh from your bones. Well, 25 miles south of there, is where one finds Buffalo. Good old, charming Buffalo.
+To the uninitiated, Buffalo may conjure images of a desolate wasteland, where frost and cold reign, accompanied by merciless winds that strip the flesh from your bones. Whilst that isn't exactly wrong, there is a bit more to it.
 
-Whilst by all accounts, Buffalo is way past its hay day. Buffalo used to be one of the top metropolitan US cities. It hit [peak population][census] in the 1950s and has been declining ever since. It used to hold substantial influence due to its river access, and cheap power generation. These traits allowed it to become a [manufacturing centre][man] and, and grow to a substantial size. However, over time, Buffalo’s geographic position was no longer essential to the preferred path of shipments and transportation. And as manufacturing moved to other parts of the world, Buffalo lost influence. Buffalo has struggled to create a post-industrial economy and has been declining since. Yet, it's still kicking.
+While Buffalo's glory days are long gone, it was once a thriving metropolitan city. Its [population peaked][census] in the 1950s, but it has been on a decline ever since. Buffalo's river access and affordable power generation contributed to its status as a [manufacturing centre][man] and its significant growth. However, as transportation routes shifted and manufacturing moved elsewhere, Buffalo's influence waned. The city has struggled to transition to a post-industrial economy, yet it persists.
 
-So, what is there to do in Buffalo? Well, charmingly enough, ‘[Buffalo.org][buff]’ seems to offer an answer to such a question.
-
+So, what can you do in Buffalo? Interestingly enough, the website '[Buffalo.org][buff]' seems to have an answer to that question.
 
 ![todo](/assets/images/todo.png)
 
-I can confidently say, that that sums it up rather adequately.
-I suppose you can always entertain yourself with the old adage “Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo”
-hours of fun.
+That pretty much sums it up. You can always entertain yourself with the infamous phrase "Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo" for hours of fun.
 
-‘The University at Buffalo’ was founded in [1846][ub], presumably in sheer spite of the concept of rational thought. Anyways, UB is actually the 3rd greenest campus in the US([in terms of power being generated vs used][green]). Which is quite impressive when you consider that approximately, 99.999% of all electricity being used, is used to battle the fearsome and ever-ready cold.
+‘The University at Buffalo’ was founded in [1846][ub], eemingly defying the very concept of rational thought. Nonetheless, UB boasts the distinction of being the third greenest campus in the US([in terms of power being generated vs used][green]). A remarkable feat considering that the majority of electricity usage is dedicated to combating the relentless and ever-present cold.
 
-UB has an active social student life. Although, North campus is somewhat physically separated from the city, which can make getting to social events a pain. However, students regularly get around this difficulty, in the name of making more difficulties for others.
+UUB fosters an active social student life, although the physical separation of the North campus from the city can make attending social events a bit of a challenge. Nevertheless, students find ways to overcome this obstacle, perhaps in the pursuit of creating more difficulties for others.
 
-In all honesty, UB is a really good school. It has competent, knowledgeable professors, who know how to teach( or at least the engineering department does, I can’t vouch for anything else ).
+In all honesty, UB is an excellent institution with competent and knowledgeable professors who excel at teaching (at least in the engineering department, I can't speak for others).
 
-In conclusion, here is a picture of the average Buffalo weather in July :) 
+To conclude, here's a snapshot of the typical weather in Buffalo during July. Enjoy!
 
 
 ### Average Summer Day in Buffalo
