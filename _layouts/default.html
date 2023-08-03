@@ -41,4 +41,17 @@
 </footer>
 {% endif %}
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Get the navigation menu item that you want to hide
+    var hiddenLinkItem = document.querySelector('a[href="/Poster.pdf"]');
+    
+    // Check if the link item exists (to avoid errors if the file is not present)
+    if (hiddenLinkItem) {
+      // Hide the parent list item (assuming the list item is <li>)
+      hiddenLinkItem.parentElement.style.display = "none";
+    }
+  });
+</script>
+
 </html>

@@ -22,7 +22,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md" , title: About me }
 
 hidden_links:
-  - {url: "Poster.pdf" }
   - {url: "BioVoice_Presentation_PDF_TimothyScholtz.pdf" }
 
   
