@@ -20,6 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "CV.pdf" , title: CV}
   - {file: "blog.html", title: Blog}
   - {file: "README.md" , title: About me }
+
+hidden_links:
   - {url: "Poster.pdf" }
   - {url: "BioVoice_Presentation_PDF_TimothyScholtz.pdf" }
 
