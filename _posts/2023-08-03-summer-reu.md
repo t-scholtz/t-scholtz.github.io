@@ -9,6 +9,7 @@ categories: media
 During my summer break, I had the incredible opportunity to work under the guidance of Prof. Xu and receive mentorship from Grad student Wei Bo. Together with an amazing team of fellow undergraduates, we work on researching the potential of creating a speech disorder diagnosis tool.
 
 The group was split into three seperate teams being STT(speech to text), MDD(Mis-pronuncaiont detection and diagnosis), and NSSD(Non-speech sound detection). I work by myselft on the STT section([better picture of poster here][Poster])
+
 ![poster](/assets/images/poster.png)
 
 One of the highlights of this summer was being chosen from our team to present our work at a prestigious REU (Research Experiences for Undergraduates) symposium. It was an honor to showcase our findings and interact with professionals and fellow researchers in the field. You can watch the presentation of our work [here][Presentation], where we discuss our research objectives, methodologies, and promising results.
