@@ -4,7 +4,17 @@ permalink: "/about/"
 layout: page
 ---
 
-![Profile picture](/assets/images/nautre.jpeg)
+<style>
+    .rounded-image {
+        border-radius: 50%;
+        border: 2px solid #333; /* Change the color and thickness of the border */
+        padding: 5px; /* Add padding to the border */
+    }
+</style>
+
+<img src="/assets/images/nautre.jpeg" alt="Profile Picture" class="rounded-image">
+
+
 
 ## Introduction
 
