@@ -9,6 +9,7 @@ layout: page
         border-radius: 50%;
         border: 2px solid #333; /* Change the color and thickness of the border */
         padding: 5px; /* Add padding to the border */
+        width: 50%; /* Set the width of the image */
     }
 </style>
 
