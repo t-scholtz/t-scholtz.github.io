@@ -20,8 +20,8 @@ I'm currently a student at UB studying Computer Engineering. I have expericne wo
         border-radius: 50%;
         border: 2px solid #333;
         padding: 5px;
-        width: 300px;
-        height: 300px;
+        width: 350px;
+        height: 350px;
         display: block;
         object-fit: cover;
     }
