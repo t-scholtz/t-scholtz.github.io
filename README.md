@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-![Profile Picture](/assets/images/nautre.jpeg)
+![Profile picture](/assets/images/nautregi.jpeg)
 
 ## Introduction
 
