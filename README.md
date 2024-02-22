@@ -11,7 +11,6 @@ Hi, I'm Tim! I'm passionate about technology, solving problems, and expering the
 ## Background
 
 I'm currently a student at UB studying Computer Engineering. I have expericne working as a teaching assitant and as a research assistant.
-
 <style>
     .image-container {
         text-align: center; /* Center align the content */
@@ -20,13 +19,13 @@ I'm currently a student at UB studying Computer Engineering. I have expericne wo
         border-radius: 50%;
         border: 2px solid #333;
         padding: 5px;
-        width: 380px;
-        height: 380px;
+        width: 350px;
+        height: 350px;
         display: block;
         object-fit: cover;
+        max-width: 100%; /* Ensure the image doesn't exceed its natural width */
     }
 </style>
-
 
 <div class="image-container">
     <img
