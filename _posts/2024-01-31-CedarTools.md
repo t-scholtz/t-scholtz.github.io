@@ -5,7 +5,7 @@ categories: media
 ---
 
 
-![Cedar Tools](/assets/images/cedarTools.png.png)
+![Cedar Tools](/assets/images/cedarTools.png)
 ## Cedar Tools
 
 [Cedar Tools][cedar-tools] is an ongoing [project][cedar-git] of mine. The goal of the project is to develop a webiste that offers an array of simple software tools that are used during computer science/engineer endavours. 
