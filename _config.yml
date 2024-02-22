@@ -1,6 +1,6 @@
 title: "Timothy J Scholtz"
 author: "Tim Scholtz"
-description: "<b style=\"color: #00755e;\">Computer Engineering </b> student at the <b style=\"color: #0048ba;\">University at Buffalo </b><b style=\"color: #ff878d;\">&lt;3 </b>"
+description: "<b style=\"color: #fec601;\">Computer Engineering </b> student at the <b style=\"color: #2364aa;\">University at Buffalo </b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home}
   - {url: "CV.pdf" , title: CV}
-  - {file: "blog.html", title: Blog}
+  - {file: "blog.html", title: Projects}
   - {file: "README.md" , title: About me }
 
 hidden_links:
@@ -27,8 +27,11 @@ hidden_links:
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Linked, icon: linkedin, url: "https://https://www.linkedin.com/in/t-j-scholtz/"}
   - {title: Mail, icon: envelope, url: "mailto:tim.scholtz@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/t-scholtz"}
+  - {title: Cedar, icon: tree, url: "https://cedar-tools.com/"}
+
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
