@@ -1,12 +1,10 @@
 ---
-title:  "My Summer Research Experince"
-mathjax: true
+title:  "Summer Research Experince"
 layout: post
 categories: media
 ---
-## A review of my summer research experince
 
-During my summer break, I had the incredible opportunity to work under the guidance of Prof. Xu and receive mentorship from Grad student Wei Bo. Together with an amazing team of fellow undergraduates, we work on researching the potential of creating a speech disorder diagnosis tool.
+During my summer break(2023), I had the incredible opportunity to work under the guidance of Prof. Xu and receive mentorship from Grad student Wei Bo. Together with an amazing team of fellow undergraduates, we work on researching the potential of creating a speech disorder diagnosis tool.
 
 The group was split into three seperate teams being STT(speech to text), MDD(Mis-pronuncaiont detection and diagnosis), and NSSD(Non-speech sound detection). I work by myselft on the STT section([better picture of poster here][Poster])
 
