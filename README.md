@@ -17,8 +17,8 @@ I'm currently a student at UB studying Computer Engineering. I have expericne wo
         border-radius: 50%;
         border: 2px solid #333; /* Change the color and thickness of the border */
         padding: 5px; /* Add padding to the border */
-        width: 200px; /* Set the width of the image */
-        height: 200px; /* Maintain aspect ratio */
+        width: 300px; /* Set the width of the image */
+        height: 300px; /* Maintain aspect ratio */
         display: block; /* Ensure the image is displayed as a block element */
         margin: auto; /* Center the image horizontally */
         object-fit: cover; /* Ensure the image covers the entire circle */

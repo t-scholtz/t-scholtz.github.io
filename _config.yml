@@ -31,6 +31,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:tim.scholtz@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/t-scholtz"}
   - {title: Cedar, icon: tree, url: "https://cedar-tools.com/"}
+  - {title: Spotify, icon: spotify, url: "https://open.spotify.com/user/mwk1wzobiq06le7tw3govdzy8"}
 
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
