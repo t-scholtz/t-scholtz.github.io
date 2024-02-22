@@ -27,12 +27,11 @@ hidden_links:
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Linked, icon: linkedin, url: "https://https://www.linkedin.com/in/t-j-scholtz/"}
-  - {title: Mail, icon: envelope, url: "mailto:tim.scholtz@outlook.com"}
+  - {title: LinkedIn, icon: linkedin, url: "https://https://www.linkedin.com/in/t-j-scholtz/"}
+  - {title: Email, icon: envelope, url: "mailto:tim.scholtz@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/t-scholtz"}
-  - {title: Cedar, icon: tree, url: "https://cedar-tools.com/"}
   - {title: Spotify, icon: spotify, url: "https://open.spotify.com/user/mwk1wzobiq06le7tw3govdzy8"}
-
+  - {title: Cedar, icon: tree, url: "https://cedar-tools.com/"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
