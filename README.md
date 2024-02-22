@@ -6,7 +6,7 @@ layout: page
 
 ## Introduction
 
-Hi, I'm Tim! I'm passionate about technology, solving problems, and expering the world. I enjoy nature, ganes, and Start Trek.
+Hi, I'm Tim! I'm passionate about technology, solving problems, and expering the world. I enjoy nature, games, and Start Trek.
 
 ## Background
 
@@ -30,7 +30,7 @@ I'm currently a student at UB studying Computer Engineering. I have expericne wo
 
 <div class="image-container">
     <img
-        src="/assets/images/formal.jpeg"
+        src="/assets/images/nautre.jpeg"
         class="rounded-image"
     />
 </div>
