@@ -4,19 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-<style>
-    .rounded-image {
-        border-radius: 50%;
-        border: 2px solid #333; /* Change the color and thickness of the border */
-        padding: 5px; /* Add padding to the border */
-        width: 50%; /* Set the width of the image */
-    }
-</style>
-
-<img src="/assets/images/nautre.jpeg" alt="Profile Picture" class="rounded-image">
-
-
-
 ## Introduction
 
 Hi, I'm Tim! I'm passionate about technology, solving problems, and expering the world. I enjoy nature, ganes, and Start Trek.
@@ -24,6 +11,20 @@ Hi, I'm Tim! I'm passionate about technology, solving problems, and expering the
 ## Background
 
 I'm currently a student at UB studying Computer Engineering. I have expericne working as a teaching assitant and as a research assistant.
+
+<style>
+    .rounded-image {
+        border-radius: 50%;
+        border: 2px solid #333; /* Change the color and thickness of the border */
+        padding: 5px; /* Add padding to the border */
+        width: 50%; /* Set the width of the image */
+        height: auto; /* Maintain aspect ratio */
+        display: block; /* Ensure the image is displayed as a block element */
+        margin: auto; /* Center the image horizontally */
+    }
+</style>
+
+<img src="/assets/images/nautre.jpeg" alt="Profile Picture" class="rounded-image">
 
 ![headshot](/assets/images/IMG_0496.png)
 
