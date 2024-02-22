@@ -4,13 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-## Introduction
-
-Hi, I'm Tim! I'm passionate about technology, solving problems, and expering the world. I enjoy nature, games, and Start Trek.
-
-## Background
-
-I'm currently a student at UB studying Computer Engineering. I have expericne working as a teaching assitant and as a research assistant.
 <style>
     .image-container {
         text-align: center; /* Center align the content */
@@ -26,6 +19,14 @@ I'm currently a student at UB studying Computer Engineering. I have expericne wo
         max-width: 100%; /* Ensure the image doesn't exceed its natural width */
     }
 </style>
+
+## Introduction
+
+Hi, I'm Tim! I'm passionate about technology, solving problems, and experiencing the world. I enjoy nature, games, and Star Trek.
+
+## Background
+
+I'm currently a student at UB studying Computer Engineering. I have experience working as a teaching assistant and as a research assistant.
 
 <div class="image-container">
     <img
