@@ -14,6 +14,11 @@ One of the highlights of this summer was being chosen from our team to present o
 
 The research process itself was both intriguing and rewarding.  Through this experience, I gained valuable insights into the world of research and its potential impact on improving the lives of individuals with speech disorders.
 
+As part of my research, I created [a tool][gitLink] to process audio and generate transcripts. To increase accurary of the trascripts I used 3 spereate STT(speech to text) software, and then used an alorithim of my own create toe pattern match and merege the 3 text outpust to incrase the accuary of the transcipts.
+
+![github](/assets/images/researchGitProj.png)
+
+
 Reflecting on this summer, I am grateful for the guidance of Prof. Xu and the mentorship of Wei Bo, who played pivotal roles in nurturing our passion for research. They encouraged us to explore beyond the confines of textbooks and classroom learning, and instead, embrace real-world challenges with curiosity and tenacity.
 
 If you're considering an opportunity like this, I wholeheartedly recommend it. Engaging in research provides a unique blend of personal growth and academic learning. The hands-on experience, coupled with the chance to contribute to the advancement of knowledge, is truly fulfilling.
@@ -22,3 +27,4 @@ As the summer comes to an end, I am excited to carry forward the lessons and ski
 
 [Poster]: https://t-scholtz.github.io/Poster.pdf
 [Presentation]: https://t-scholtz.github.io/BioVoice_Presentation_PDF_TimothyScholtz.pdf
+[gitLink]: https://github.com/t-scholtz/EchoMind
