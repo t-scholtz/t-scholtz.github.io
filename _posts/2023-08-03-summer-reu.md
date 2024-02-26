@@ -3,11 +3,11 @@ title:  "Summer Research Experince"
 layout: post
 ---
 
-
 ## Can STT tools be used in educational and health settings to analysis and diagnose issues
 
-
 ![poster](/assets/images/poster.png)
+
+
 
 
 

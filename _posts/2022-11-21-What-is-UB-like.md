@@ -1,20 +1,27 @@
 ---
 title:  "What is UB like?"
 layout: post
-categories: media
 ---
 
+
+
 ## A simple review of UB from a Comp Eng's perspective
+
 
 What is Buffalo like?
 
 To the uninitiated, Buffalo may conjure images of a desolate wasteland, where frost and cold reign, accompanied by merciless winds that strip the flesh from your bones. Whilst that isn't exactly wrong, there is a bit more to it.
 
+
+
 While Buffalo's glory days are long gone, it was once a thriving metropolitan city. Its [population peaked][census] in the 1950s, but it has been on a decline ever since. Buffalo's river access and affordable power generation contributed to its status as a [manufacturing centre][man] and its significant growth. However, as transportation routes shifted and manufacturing moved elsewhere, Buffalo's influence waned. The city has struggled to transition to a post-industrial economy, yet it persists.
+
 
 So, what can you do in Buffalo? Interestingly enough, the website '[Buffalo.org][buff]' seems to have an answer to that question.
 
 ![todo](/assets/images/todo.png)
+
+
 
 That pretty much sums it up. You can always entertain yourself with the infamous phrase "Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo" for hours of fun.
 
