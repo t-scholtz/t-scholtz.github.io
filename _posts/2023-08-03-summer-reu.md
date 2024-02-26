@@ -3,6 +3,7 @@ title:  "Summer Research Experince"
 layout: post
 categories: media
 ---
+## Can STT tools be used in educational and health settings to analysis and diagnose issues
 ![poster](/assets/images/poster.png)
 
 During my summer break(2023), I had the incredible opportunity to work under the guidance of Prof. Xu and receive mentorship from Grad student Wei Bo. Together with an amazing team of fellow undergraduates, we work on researching the potential of creating a speech disorder diagnosis tool.
