@@ -6,7 +6,7 @@ layout: page
 
 <style>
     .image-container {
-        text-align: center; /* Center align the content */
+        align: center; /* Center align the content */
     }
     .rounded-image {
         border-radius: 50%;
