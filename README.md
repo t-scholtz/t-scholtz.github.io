@@ -19,13 +19,14 @@ layout: page
 
 ## Introduction
 
-Hi, I'm Tim! I'm passionate about technology, solving problems, and experiencing the world. I enjoy nature, games, and Star Trek.
+Hi, I'm Tim! I'm passionate about technology, solving problems, and experiencing the world. 
 
 ## Hobies
+I really enjoy learning and growing as a person. I'm also a huge fan of star trek, board games, and video games. I also relax by going for walks and reading.
 
 ## Goals
+I hope to keep growing as a person, both my career skill set, and as a person. I'm hoping to get to work on interesting projects in the future which also provide a benift to the world.
 
-## Values
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="/assets/images/nautre.jpeg" class="rounded-image"/>
