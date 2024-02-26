@@ -4,8 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-<style>  align: center; /* Center align the content */
-    
+<style>  
     .rounded-image {
         border-radius: 50%;
         border: 2px solid #333;
@@ -31,10 +30,7 @@ Hi, I'm Tim! I'm passionate about technology, solving problems, and experiencing
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img
-        src="/assets/images/nautre.jpeg"
-        class="rounded-image"
-    />
+    <img src="/assets/images/nautre.jpeg" class="rounded-image"/>
 </div>
 
 
