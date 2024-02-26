@@ -30,7 +30,7 @@ Hi, I'm Tim! I'm passionate about technology, solving problems, and experiencing
 
 
 
-<div style="display: flex; justify-content: center; align-items: center;"">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img
         src="/assets/images/nautre.jpeg"
         class="rounded-image"
