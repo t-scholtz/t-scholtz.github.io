@@ -22,7 +22,7 @@ Right now, I'm hosting the sever on a [droplet][https://www.digitalocean.com/pro
 
 My goal is for the site to have a host of tools which I can acess at anytime, anywhere, that will let me complete work faster. And I hope that others will be able to find use out of the website too!. If you have any suggetions or features you would like added, please leave a comment on the websites about page.
 
-![Cedar Tools](/assets/images/Cedar_Logo.png)
+![Cedar Tools](/assets/images/Cedar_tools.png)
 
 [cedar-tools]: https://cedar-tools.com/
 [cedar-git]: https://github.com/t-scholtz/awesomeTools

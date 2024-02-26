@@ -4,10 +4,8 @@ permalink: "/about/"
 layout: page
 ---
 
-<style>
-    .image-container {
-        align: center; /* Center align the content */
-    }
+<style>  align: center; /* Center align the content */
+    
     .rounded-image {
         border-radius: 50%;
         border: 2px solid #333;
@@ -24,11 +22,15 @@ layout: page
 
 Hi, I'm Tim! I'm passionate about technology, solving problems, and experiencing the world. I enjoy nature, games, and Star Trek.
 
-## Background
+## Hobies
 
-I'm currently a student at UB studying Computer Engineering. I have experience working as a teaching assistant and as a research assistant.
+## Goals
 
-<div class="image-container">
+## Values
+
+
+
+<div style="display: flex; justify-content: center; align-items: center;"">
     <img
         src="/assets/images/nautre.jpeg"
         class="rounded-image"
