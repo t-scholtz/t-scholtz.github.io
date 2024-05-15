@@ -14,7 +14,12 @@ show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 include:
-  - code/warp/
+  - code/
+
+# Add a static_files block to copy the web directory
+static_files:
+  - source: code/warp/web
+    destination: assets/web
 
 # Menu
 
@@ -24,7 +29,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.html", title: Projects}
   - {file: "codeBytes.html", title: CodeBytes}
   - {file: "README.md" , title: About me }
-  - {file: "warp/web.html" , title: test }
+  - {file: "/code/warp/web.html" , title: test }
 
 hidden_links:
   - {url: "BioVoice_Presentation_PDF_TimothyScholtz.pdf" }
