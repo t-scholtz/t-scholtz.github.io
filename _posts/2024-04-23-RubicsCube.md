@@ -16,6 +16,14 @@ Me and my [teamate][tom] created our own version of the [1982 Atari 2600 video g
 We implemented the classic 1982 Atari 2600 game Rubik’s Cube. The program lets a user move a character around the board trying to solve the cube by moving a player character which can carry one tile/color at a time. 
 
 There is also a menu in which the player can choose game mode options and a pause menu where the player can reset the game if they wish. Once a player looses or wins a game mode they will have the option to reset.
+
+
+
+
+
+
+
+
 ## Program Summary
 
 # Start Up
@@ -33,17 +41,24 @@ In the pause menu the player can chose to restart the game by pressing space, or
 When the player either wins or loses the game they will be presented with a screen showing their score. They can then press space to return to the menu
 
 
+
+
+
+
 Below are some flowcharts of the project layout and design
+
+
 ![Flowchart 1](/assets/images/flow1.png)
 ![Flowchart 2](/assets/images/flow2.png)
 ![Flowchart 3](/assets/images/flow3.png)
 
-
 Below is hopefully a demo of the project(if not, sorry I don't know how video embedings works)
-<video controls>
+
+<video controls style="max-width: 100%; height: auto;">
   <source src="/assets/images/Lab7ProjectDemo.mov" type="video/mp4">
   Your browser does not support the video tag :/
 </video>
+
 
 
 [lab7]: https://github.com/t-scholtz/CSE-379_Lab/tree/main/Lab7
