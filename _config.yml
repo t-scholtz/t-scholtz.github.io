@@ -42,3 +42,8 @@ comments:
 
 plugins:
  - jekyll-feed
+
+
+collections:
+  codeBytes:
+    output: true
