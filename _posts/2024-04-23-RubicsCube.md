@@ -1,5 +1,5 @@
 ---
-title: "Rubik’s Cube - Arm - Lab 7"
+title: "Lab 7 - Arm project"
 layout: post
 categories: media
 ---
