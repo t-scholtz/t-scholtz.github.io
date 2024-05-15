@@ -1,3 +1,4 @@
+
 title: "Timothy J Scholtz"
 author: "Tim Scholtz"
 description: "<b style=\"color: #fec601;\">Computer Engineering </b> student at the <b style=\"color: #2364aa;\">University at Buffalo </b>"
@@ -21,13 +22,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.html", title: Projects}
   - {file: "codeBytes.html", title: CodeBytes}
   - {file: "README.md" , title: About me }
-  - {file: "code/web/warp.html" , title: test! }
 
 hidden_links:
   - {url: "BioVoice_Presentation_PDF_TimothyScholtz.pdf" }
-
-
-  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: LinkedIn, icon: linkedin, url: "https://https://www.linkedin.com/in/t-j-scholtz/"}
@@ -45,7 +42,20 @@ comments:
 plugins:
  - jekyll-feed
 
+include:
+  - code/
 
+# Add a static_files block to copy the web directory
+static_files:
+  - source: code/warp/web
+    destination: assets/web
+    
+  #when adding more for example
+  #  static_files:
+  # - source: code/warp/web
+  #   destination: assets/web
+  # - source: code/another_directory
+  #   destination: assets/another_directory 
 collections:
   codeBytes:
     output: true
