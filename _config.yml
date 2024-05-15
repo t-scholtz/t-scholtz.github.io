@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.html", title: Projects}
   - {file: "codeBytes.html", title: CodeBytes}
   - {file: "README.md" , title: About me }
-   - {file: "code/web/warp.html" , title: test! }
+  - {file: "code/web/warp.html" , title: test! }
 
 hidden_links:
   - {url: "BioVoice_Presentation_PDF_TimothyScholtz.pdf" }
