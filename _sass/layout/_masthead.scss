@@ -36,6 +36,11 @@
 
     nav {
       z-index: 10;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
     }
 
     a {
@@ -45,18 +50,23 @@
 }
 
 .masthead__menu {
+  
 
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
   }
 }
 
 .masthead__menu-item {
   background-color: var(--global-bg-color);
-  display: block;
+  display: inline-block;
   list-style-type: none;
   white-space: nowrap;
 

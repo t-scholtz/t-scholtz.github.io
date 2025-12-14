@@ -68,6 +68,7 @@ def extract_author_info(config):
         "name": config.get('name', ''),
         "email": "",
         "phone": "",
+        "cv": "",
         "website": config.get('url', ''),
         "summary": "",
         "location": {
@@ -91,6 +92,9 @@ def extract_author_info(config):
         # Add email
         if author.get('email'):
             author_info['email'] = author.get('email')
+
+        if author.get('cv'):
+            author_info['cv'] = author.get('cv')
         
         # Add location
         if author.get('location'):
