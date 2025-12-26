@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align:center; margin-bottom:0; padding-bottom:0;">
+<div style="text-align:center; margin-bottom:0; padding-bottom:0;margin-top:0;">
   <!-- Profile Image (circular) -->
-  <picture>
+  <picture style="margin-top:0;">
     <img src="/images/{{ site.author.avatar }}" alt="Profile picture." 
          class="profile-photo" 
-         style="border-radius:50%; width:300px; height:300px; object-fit:cover; margin-bottom:1rem;">
+         style="border-radius:50%; width:280px; height:280px; object-fit:cover; margin-bottom:1rem;">
   </picture>
   <!-- Name -->
   <h1 class="header-name" itemprop="name" style="margin-bottom:0rem;">{{ site.author.name }}</h1>
@@ -56,27 +56,18 @@ redirect_from:
 </div>
 
 ---
-I am a PhD student in Computer Engineering focusing on computer architecture and embedded systems. My research sits at the intersection of low-level systems and hardware–software co-design, with an interest in domain-specific architectures. I work on tools for designing application-specific, bespoke processors.
+Human history is, at its core, a story of technological progress. Historians may focus on kings, and political scientists may debate policy, but lasting change comes from technological innovation. Shakespeare’s impact on the English language was only possible because of the invention and widespread adoption of the printing press. I’m motivated to help humanity by pushing technological boundaries.
 
----
+I am a PhD student in Computer Engineering, focusing on computer architecture and embedded systems. My research sits at the intersection of low-level systems and hardware–software co-design, with a particular interest in domain-specific architectures.
 
-# Education
+## Current Position
 
-**Ph.D. Computer Engineering, Virginia Tech**  
-*2025 – Present*  
-Research Area: Computer Architecture and Embedded Systems
+**Graduate Research Assistant — [FoRTE Lab](https://forte-research.com/), Virginia Tech**  
+I work on automated bespoke processor generation tools, with a focus on evaluating the effectiveness of bespoke processors.
 
-**Bachelor of Science, Computer Engineering, University at Buffalo**  
-GPA: 3.88 | *2021 – 2025*
+## Education
 
----
+**Ph.D. in Computer Engineering, Virginia Tech** \| *2025 – Present*  
+Advisor: Matthew Hicks  
 
-# Current Position
-
-**Graduate Research Assistant — FoRTE Lab, Virginia Tech**  
-Supervisor: Prof. Matthew Hicks  
-Dates: June 2025 – Present  
-Research Area: Computer Architecture and Embedded Systems  
-
-- Developed a hardware-agnostic tool for generating application-specific, bespoke processors, enabling greater flexibility and improved performance compared to existing generation methodologies.  
-- Evaluated current approaches to bespoke processor design and analyzed trade-offs in performance, effectiveness, and design complexity.
+**B.S. in Computer Engineering, University at Buffalo** \| *2021 – 2025*

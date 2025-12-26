@@ -5,13 +5,10 @@
 .archive {
   margin-bottom: 2em;
 
-  @include breakpoint($medium) {
-    @include span(12 of 12);
-  }
-
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    @include span(12 of 12 last);
+    @include prefix(1.5 of 12);
+    @include suffix(1.5 of 12);
   }
 
   a {
@@ -27,6 +24,28 @@
   }
 }
 
+.archive__item {
+  border: 1px solid var(--global-border-color); // light border
+  border-radius: 12px; // curved corners
+  padding: 0.5em; // space inside the box
+  margin-bottom: 1em; // space between posts
+  background-color: var(--global-background-color); // fallback white
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); // subtle shadow
+
+  transition: transform 0.2s, box-shadow 0.2s;
+
+  // Hide empty paragraphs to prevent extra spacing
+  p:empty {
+    display: none;
+  }
+
+  // Remove bottom margin from last child to prevent extra spacing
+  > *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
@@ -40,6 +59,7 @@
 }
 
 .archive__item-title {
+  margin-top: 0; // Reduced from default to minimize space above title
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
@@ -52,13 +72,14 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0; // Also set to 0 here
     border-bottom: none;
   }
 }
 
 .archive__item-excerpt {
   margin-top: 0;
+  margin-bottom: 0; // Remove bottom margin to eliminate extra space
   font-size: $type-size-6;
 
   & + p {
