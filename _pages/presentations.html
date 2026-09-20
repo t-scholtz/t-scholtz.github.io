@@ -8,8 +8,8 @@ author_profile: true
 {% assign talks = site.presentations | sort: "date" | reverse %}
 
 <style>
-  .pres { display: flex; gap: 1.5em; margin-bottom: 2em; align-items: flex-start; }
-  .pres__thumb { flex: 0 0 220px; border: 1px solid #ddd; box-shadow: 0 1px 4px rgba(0,0,0,.15); background: #f5f5f5; line-height: 0; }
+  .pres { display: flex; gap: 1.5em; align-items: flex-start; }
+  .pres__thumb { flex: 0 0 200px; border: 1px solid #ddd; background: #f5f5f5; line-height: 0; }
   .pres__thumb canvas { width: 100%; height: auto; }
   .pres__body { flex: 1; min-width: 0; }
   .pres__body h2 { margin-top: 0; }
@@ -19,20 +19,20 @@ author_profile: true
 {% for talk in talks %}
   {% assign folder = talk.path | split: "/" | slice: 1, 1 | first %}
   {% assign pdf_url = "/presentations/" | append: folder | append: "/" | append: talk.pdf | relative_url %}
-  <article class="pres">
-    <a class="pres__thumb" href="{{ pdf_url }}" aria-label="Open {{ talk.title }} slides">
-      <canvas data-pdf="{{ pdf_url }}"></canvas>
-    </a>
-    <div class="pres__body">
-      <h2>{{ talk.title }}</h2>
-      <p class="page__meta">
-        <i class="fa fa-calendar" aria-hidden="true"></i> {{ talk.date | date: "%B %-d, %Y" }}
-        {% if talk.venue or talk.location %}&middot; {{ talk.venue }}{% if talk.venue and talk.location %}, {% endif %}{{ talk.location }}{% endif %}
-      </p>
-      {{ talk.content }}
-      <p><a href="{{ pdf_url }}">View slides (PDF)</a></p>
-    </div>
-  </article>
+  <div class="list__item">
+    <article class="archive__item pres" itemscope itemtype="http://schema.org/CreativeWork">
+      <a class="pres__thumb" href="{{ pdf_url }}" aria-label="Open {{ talk.title }} slides">
+        <canvas data-pdf="{{ pdf_url }}"></canvas>
+      </a>
+      <div class="pres__body">
+        <h2 class="archive__item-title" itemprop="headline"><a href="{{ pdf_url }}">{{ talk.title }}</a></h2>
+        <p>
+          {% if talk.venue %}<i>{{ talk.venue }}</i>{% if talk.location %}, {% endif %}{% endif %}{{ talk.location }}{% if talk.venue or talk.location %}, {% endif %}{{ talk.date | date: "%B %-d, %Y" }}
+        </p>
+        <div class="archive__item-excerpt" itemprop="description">{{ talk.content }}</div>
+      </div>
+    </article>
+  </div>
 {% endfor %}
 
 <script type="module">
